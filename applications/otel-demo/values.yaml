@@ -10,7 +10,7 @@ prometheus:
   enabled: true
 
 grafana:
-  enabled: false
+  enabled: true
 
 opensearch:
   enabled: false
