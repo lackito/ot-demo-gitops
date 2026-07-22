@@ -19,4 +19,4 @@ components:
   recommendation:
     imageOverride:
       repository: 650032249451.dkr.ecr.us-east-1.amazonaws.com/recommendation
-      tag: ef49efb3a8c147db0da7d4505a937b131b3b75d1
+      tag: 19c78e25ec848ff813cfdbeebaa72288bb9e995f
